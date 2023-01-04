@@ -108,7 +108,7 @@ Labels are key-value pairs consisting of strings.
 
 Label names beginning with underscores are RESERVED and MUST NOT be used unless specified by this standard. Label names MUST follow the restrictions in the ABNF section.
 
-Empty label values SHOULD be treated as if the label was not present.
+Empty label values SHOULD be treated as if the label were not present.
 
 ### LabelSet
 
